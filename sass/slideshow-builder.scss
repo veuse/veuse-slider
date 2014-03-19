@@ -1,0 +1,35 @@
+.slide-item-image {
+
+	margin:0;  background: #fff; outline:1px solid #eee; min-height:200px; position: relative;
+
+
+		.add_slide_image,
+		.remove_slide_image {display:none;position:absolute; left:50%; margin-left:-50px; text-align: center; top:50%; margin-top:-6px;}
+
+	}
+
+
+.ceon_panel { margin:20px 10px;}
+
+.slide-item { background: #fcfcfc;
+
+	 .inside { padding:20px; }
+
+	 fieldset { margin-bottom: 10px; }
+	 figure {margin-bottom:10px; width:50%; margin-right:3%; float:left;}
+	 img {width:100%; display:block;}
+}
+
+.slide-item-form {
+	width:47%;
+	margin-right:0;
+	float: left;
+
+	input[type=text] {width:100%;}
+	textarea { width:100%; min-height:90px;}
+
+}
+
+
+
+
