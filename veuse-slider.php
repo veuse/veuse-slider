@@ -487,6 +487,7 @@ $veuse_slider = new VeuseSlider;
 
 
 require 'widget.php'; 
+require_once 'documentation/documentation.php'; 
 
 
 /* Insert retina image */
